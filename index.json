@@ -1,9 +1,9 @@
 {
-	"html": "cocacoladrawer.jade",
+	"html": "index.jade",
 	"css": [
-		"css/cocacoladrawer.css"
+		"css/index.css"
 	],
 	"js": [
-		"js/cocacoladrawer.js"
+		"js/index.js"
 	]
 }
